@@ -1,1 +1,1 @@
-# Blog-App
+![Project humbnail](./thumbnail.jpg)
